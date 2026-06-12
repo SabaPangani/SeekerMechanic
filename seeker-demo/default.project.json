@@ -1,0 +1,9 @@
+{
+  "name": "seeker-demo",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$path": "src/server"
+    }
+  }
+}
